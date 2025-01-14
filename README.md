@@ -1,5 +1,5 @@
-# git_auto_install_-_setup
-git_auto_install_&amp;_setup 
+# git_install_and_setup
+git_install_and_setup 
 
 sources:
 https://github.com/git-guides/install-git
