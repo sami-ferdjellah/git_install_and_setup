@@ -20,3 +20,4 @@ else
     git config --global user.name "Sami_F"
     git config --global user.email "sami.ferdjellah@live.fr"
     echo "your git has been setup"
+fi
