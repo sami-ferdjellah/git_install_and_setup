@@ -17,7 +17,7 @@ if gitconfig == true
 then
     echo "git setup has been already done"
 else
-    git config --global user.name "Sami_F"
+    git config --global user.name "sami-ferdjellah"
     git config --global user.email "sami.ferdjellah@live.fr"
     echo "your git has been setup"
 fi
